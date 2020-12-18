@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,900;1,400&display=swap" rel="stylesheet">
+    <title>Интернет-магазин</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="products.css">
+    <link rel="stylesheet" href="style_project.css">
+    <script src="https://kit.fontawesome.com/60cf140489.js" crossorigin="anonymous"></script>
+</head>
+<body>
+  
+<header>
+    <div class="header center">
+        <div class="header__left">
+            <a href="index.html" class="logo"><img class="logo__img" src="img/logo.png" alt="foto">BRAN<span class="brand">D</span></a> 
+        </div>
+
+        <form class="search_bar" action="/" method="get">
+            <div class="dropdown">
+              <button class="dropbtn">Browse <i class="fas fa-sort-down"></i></button>
+              
+            </div>
+            <div class="search-container">
+              <input type="text" placeholder="Search for Item..." name="search">
+              <button type="submit"><i class="fa fa-search"></i></button>
+            </div>
+          </form>
+
+        <div class="header__right">
+             <button class="btn-cart"  src="img/cart.png" type="button">Корзина</button>
+            <a href="checkout.html" class="button-pink my_account">My Account</a>
+        </div>
+    </div>
+</header>
+<main>
+    <div class="products"></div>
+   
+</main>
+<script src="./js/main.js"></script>
+</body>
+</html>

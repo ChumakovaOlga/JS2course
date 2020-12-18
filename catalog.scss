@@ -1,0 +1,25 @@
+.arrivals{
+    height:148px;
+    background-color: #f8f3f4;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .breadcrumb_link:not(:last-child)::after{
+      content:' / ';
+  }
+  .catalog_content{
+    display: flex;
+}
+.sort{
+    width: $widthSort;
+    margin-right: 49px;
+}
+.sort_ul{
+   list-style-type:none; 
+}
+
+catalog_content .product-box {
+    width:1140px - $widthSort - 49px;
+}
+
