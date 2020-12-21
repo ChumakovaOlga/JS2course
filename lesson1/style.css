@@ -324,7 +324,7 @@ input {
 .promo {
   height: 614px;
   background-color: #e8e8e8;
-  background-image: url(img/promo.png);
+  background-image: url(lesson1/img/promo.png);
   background-repeat: no-repeat;
   background-position: center -51px;
   margin-bottom: 100px;
@@ -381,7 +381,7 @@ input {
 
 .photo4 {
   height: 542px;
-  background: url(img/man.png);
+  background: url(lesson1/img/man.png);
   margin-bottom: 21px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -394,7 +394,7 @@ input {
 
 .photo1 {
   height: 542px;
-  background: url(img/child.png);
+  background: url(lesson1/img/child.png);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -407,7 +407,7 @@ input {
 .photo3 {
   height: 261px;
   width: 560px;
-  background: url(img/woman.png);
+  background: url(lesson1/img/woman.png);
   margin-bottom: 21px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -421,7 +421,7 @@ input {
 .photo2 {
   height: 261px;
   width: 560px;
-  background: url(img/wallet.png);
+  background: url(lesson1/img/wallet.png);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -616,7 +616,7 @@ input {
 }
 
 .sale-left {
-  background: url(img/winter.png), url(img/background.png);
+  background: url(lesson1/img/winter.png), url(lesson1/img/background.png);
   background-repeat: no-repeat;
   width: 767px;
   height: 529px;
@@ -655,7 +655,7 @@ input {
   height: 529px;
   padding-top: 60px;
   padding-left: 30px;
-  background: url(img/background.png);
+  background: url(lesson1/img/background.png);
 }
 
 .sale-product {
@@ -699,7 +699,7 @@ input {
 /*-------single page---------------*/
 .promo_girl {
   height: 777px;
-  background-image: url(img/girl.png);
+  background-image: url(lesson1/img/girl.png);
   background-repeat: no-repeat;
   background-position: center 0px;
   background-color: #f7f7f7;
@@ -1714,7 +1714,7 @@ details.details_menu_item {
   padding-top: 80px;
   text-align: center;
   height: 341px;
-  background: url(img/black_footer.png);
+  background: url(lesson1/img/black_footer.png);
   background-color: #222224;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1739,7 +1739,7 @@ details.details_menu_item {
 
 /*-----------footer 2-----------------*/
 .subscribe {
-  background: url(img/bottom.png), url(img/bottom-back.png) bottom no-repeat;
+  background: url(lesson1/img/bottom.png), url(lesson1/img/bottom-back.png) bottom no-repeat;
   background-size: cover;
   height: 438px;
   display: -webkit-box;
