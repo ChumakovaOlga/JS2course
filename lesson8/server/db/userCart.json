@@ -1,0 +1,31 @@
+{
+    "amount": 46600,
+    "countGoods": 2,
+    "contents": [
+        {
+            "id_product": 123,
+            "product_name": "Blacky",
+            "price": 4560,
+            "quantity": 20
+        },
+        {
+            "id_product": 456,
+            "product_name": "Sport look",
+            "price": 1000,
+            "quantity": 20
+        },
+        {
+            "quantity": 20,
+            "id_product": 457,
+            "product_name": "Jacket",
+            "price": 3000
+        },
+        {
+            "quantity": 20,
+            "id_product": 124,
+            "product_name": "Grey suit",
+            "price": 1600
+       }
+
+    ]
+}
