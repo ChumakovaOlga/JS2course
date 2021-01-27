@@ -1,0 +1,22 @@
+[
+  {
+    "id_product": 124,
+    "product_name": "Grey suit",
+    "price": 1600
+  },
+  {
+    "id_product": 457,
+    "product_name": "Jacket",
+    "price": 3000
+  },
+  {
+    "id_product": 123,
+    "product_name": "Нoody",
+    "price": 4560
+  },
+  {
+    "id_product": 456,
+    "product_name": "Sport look",
+    "price": 1000
+  }
+]
